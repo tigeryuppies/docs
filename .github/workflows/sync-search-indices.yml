@@ -108,7 +108,7 @@ jobs:
           git lfs push --all public-docs-repo
 
       - name: Send slack notification if workflow run fails
-        uses: someimportantcompany/github-actions-slack-message@0b470c14b39da4260ed9e3f9a4f1298a74ccdefd
+        uses: someimportantcompany/github-actions-slack-message@dafca0835f7e51f42ec46806aced9230fa56b058
         if: failure() && env.FREEZE != 'true'
         with:
           channel: ${{ secrets.DOCS_ALERTS_SLACK_CHANNEL_ID }}
