@@ -26,9 +26,8 @@ Users in India can contact GitHub's Grievance Officer for India [here](https://s
 
 {% data reusables.profile.user_profile_page_navigation %}
 {% data reusables.profile.user_profile_page_block_or_report %}
-3. Click **Report abuse**.
-  ![Modal box with options to block user or report abuse](/assets/images/help/profile/profile-report-abuse.png)
-4. Complete the contact form to tell {% data variables.contact.contact_support %} about the user's behavior, then click **Send request**.
+1. Click **Report abuse**.
+1. Complete the contact form to tell {% data variables.contact.contact_support %} about the user's behavior, then click **Send request**.
 
 ## Reporting an issue or pull request
 
@@ -62,9 +61,9 @@ Users in India can contact GitHub's Grievance Officer for India [here](https://s
 
 ## Further reading
 
-- "[Setting up your project for healthy contributions](/communities/setting-up-your-project-for-healthy-contributions)"
-- "[Using templates to encourage useful issues and pull requests](/communities/using-templates-to-encourage-useful-issues-and-pull-requests)"
-- "[Managing disruptive comments](/communities/moderating-comments-and-conversations/managing-disruptive-comments)"{% ifversion fpt or ghec %}
-- "[Maintaining your safety on {% data variables.product.prodname_dotcom %}](/communities/maintaining-your-safety-on-github)"
-- "[Limiting interactions in your repository](/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)"{% endif %}
-- "[Tracking changes in a comment](/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment)"
+- "[AUTOTITLE](/communities/setting-up-your-project-for-healthy-contributions)"
+- "[AUTOTITLE](/communities/using-templates-to-encourage-useful-issues-and-pull-requests)"
+- "[AUTOTITLE](/communities/moderating-comments-and-conversations/managing-disruptive-comments)"{% ifversion fpt or ghec %}
+- "[AUTOTITLE](/communities/maintaining-your-safety-on-github)"
+- "[AUTOTITLE](/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)"{% endif %}
+- "[AUTOTITLE](/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment)"
