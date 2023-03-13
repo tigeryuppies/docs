@@ -123,7 +123,7 @@ jobs:
           github_token: ${{ secrets.OCTOMERGER_PAT_WITH_REPO_AND_WORKFLOW_SCOPE }}
 
       - name: Create pull request
-        uses: repo-sync/pull-request@65785d95a5a466e46a9d0708933a3bd51bbf9dde
+        uses: repo-sync/pull-request@7e79a9f5dc3ad0ce53138f01df2fad14a04831c5
         env:
           GITHUB_TOKEN: ${{ secrets.OCTOMERGER_PAT_WITH_REPO_AND_WORKFLOW_SCOPE }}
         with:
