@@ -29,7 +29,7 @@
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "dayjs": "^1.11.3",
-    "dotenv": "^16.0.1",
+    "dotenv": "^16.0.3",
     "express": "^4.18.1",
     "express-timeout-handler": "^2.2.2",
     "fastest-levenshtein": "1.0.16",
