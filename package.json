@@ -165,7 +165,7 @@
     "prettier": "^2.7.0",
     "rimraf": "^4.1.1",
     "robots-parser": "^3.0.0",
-    "sass": "^1.52.3",
+    "sass": "^1.62.0",
     "start-server-and-test": "^2.0.0",
     "strip-ansi": "^7.0.1",
     "typescript": "^5.0.2",
